@@ -1,3 +1,15 @@
+h1{
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 40px;
+    line-height: 40px;
+    color: #F25A70;
+    text-shadow: 4px 4px 0 #000;
+}
+
+/* ===========================
+    header 
+================================*/
+
 header{
     display: flex;
     justify-content: space-between;
@@ -49,3 +61,4 @@ a::before {
     transform: scale(1.08);
     background-color: #7c5e99;
 }
+
